@@ -1,0 +1,1300 @@
+a=1, b=0: kqlfd jzvgy tpaet icdhm rtwly kqlon ubstx
+
+a=1, b=1: jpkec iyufx sozds hbcgl qsvkx jpknm tarsw
+
+a=1, b=2: iojdb hxtew rnycr gabfk prujw iojml szqrv
+
+a=1, b=3: hnica gwsdv qmxbq fzaej oqtiv hnilk rypqu
+
+a=1, b=4: gmhbz fvrcu plwap eyzdi npshu gmhkj qxopt
+
+a=1, b=5: flgay euqbt okvzo dxych morgt flgji pwnos
+
+a=1, b=6: ekfzx dtpas njuyn cwxbg lnqfs ekfih ovmnr
+
+a=1, b=7: djeyw csozr mitxm bvwaf kmper djehg nulmq
+
+a=1, b=8: cidxv brnyq lhswl auvze jlodq cidgf mtklp
+
+a=1, b=9: bhcwu aqmxp kgrvk ztuyd ikncp bhcfe lsjko
+
+a=1, b=10: agbvt zplwo jfquj ystxc hjmbo agbed krijn
+
+a=1, b=11: zfaus yokvn iepti xrswb gilan zfadc jqhim
+
+a=1, b=12: yeztr xnjum hdosh wqrva fhkzm yezcb ipghl
+
+a=1, b=13: xdysq wmitl gcnrg vpquz egjyl xdyba hofgk
+
+a=1, b=14: wcxrp vlhsk fbmqf uopty dfixk wcxaz gnefj
+
+a=1, b=15: vbwqo ukgrj ealpe tnosx cehwj vbwzy fmdei
+
+a=1, b=16: uavpn tjfqi dzkod smnrw bdgvi uavyx elcdh
+
+a=1, b=17: tzuom sieph cyjnc rlmqv acfuh tzuxw dkbcg
+
+a=1, b=18: sytnl rhdog bximb qklpu zbetg sytwv cjabf
+
+a=1, b=19: rxsmk qgcnf awhla pjkot yadsf rxsvu bizae
+
+a=1, b=20: qwrlj pfbme zvgkz oijns xzcre qwrut ahyzd
+
+a=1, b=21: pvqki oeald yufjy nhimr wybqd pvqts zgxyc
+
+a=1, b=22: oupjh ndzkc xteix mghlq vxapc oupsr yfwxb
+
+a=1, b=23: ntoig mcyjb wsdhw lfgkp uwzob ntorq xevwa
+
+a=1, b=24: msnhf lbxia vrcgv kefjo tvyna msnqp wduvz
+
+a=1, b=25: lrmge kawhz uqbfu jdein suxmz lrmpo vctuy
+
+a=2, b=0: ugwkg syqmw meaim qegoy imsww ugwca ockmu
+
+a=2, b=1: seuie qwoku kcygk ocemw gkquu seuay maiks
+
+a=2, b=2: qcsgc oumis iawei macku eioss qcsyw kygiq
+
+a=2, b=3: oaqea mskgq gyucg kyais cgmqq oaqwu iwego
+
+a=2, b=4: myocy kqieo ewsae iwygq aekoo myous gucem
+
+a=2, b=5: kwmaw iogcm cuqyc guweo ycimm kwmsq esack
+
+a=2, b=6: iukyu gmeak asowa esucm wagkk iukqo cqyai
+
+a=2, b=7: gsiws ekcyi yqmuy cqsak uyeii gsiom aowyg
+
+a=2, b=8: eqguq ciawg woksw aoqyi swcgg eqgmk ymuwe
+
+a=2, b=9: coeso agyue umiqu ymowg quaee coeki wksuc
+
+a=2, b=10: amcqm yewsc skgos wkmue osycc amcig uiqsa
+
+a=2, b=11: ykaok wcuqa qiemq uiksc mqwaa ykage sgoqy
+
+a=2, b=12: wiymi uasoy ogcko sgiqa kouyy wiyec qemow
+
+a=2, b=13: ugwkg syqmw meaim qegoy imsww ugwca ockmu
+
+a=2, b=14: seuie qwoku kcygk ocemw gkquu seuay maiks
+
+a=2, b=15: qcsgc oumis iawei macku eioss qcsyw kygiq
+
+a=2, b=16: oaqea mskgq gyucg kyais cgmqq oaqwu iwego
+
+a=2, b=17: myocy kqieo ewsae iwygq aekoo myous gucem
+
+a=2, b=18: kwmaw iogcm cuqyc guweo ycimm kwmsq esack
+
+a=2, b=19: iukyu gmeak asowa esucm wagkk iukqo cqyai
+
+a=2, b=20: gsiws ekcyi yqmuy cqsak uyeii gsiom aowyg
+
+a=2, b=21: eqguq ciawg woksw aoqyi swcgg eqgmk ymuwe
+
+a=2, b=22: coeso agyue umiqu ymowg quaee coeki wksuc
+
+a=2, b=23: amcqm yewsc skgos wkmue osycc amcig uiqsa
+
+a=2, b=24: ykaok wcuqa qiemq uiksc mqwaa ykage sgoqy
+
+a=2, b=25: wiymi uasoy ogcko sgiqa kouyy wiyec qemow
+
+a=3, b=0: ewhpj bxlsu ftamf ygjvk zfohu ewhqn idcfr
+
+a=3, b=1: btemg yuipr cqxjc vdgsh wcler btenk fazco
+
+a=3, b=2: yqbjd vrfmo znugz sadpe tzibo yqbkh cxwzl
+
+a=3, b=3: vnyga socjl wkrdw pxamb qwfyl vnyhe zutwi
+
+a=3, b=4: skvdx plzgi thoat muxjy ntcvi skveb wrqtf
+
+a=3, b=5: phsau miwdf qelxq jrugv kqzsf phsby tonqc
+
+a=3, b=6: mepxr jftac nbiun gords hnwpc mepyv qlknz
+
+a=3, b=7: jbmuo gcqxz kyfrk dloap ektmz jbmvs nihkw
+
+a=3, b=8: gyjrl dznuw hvcoh ailxm bhqjw gyjsp kfeht
+
+a=3, b=9: dvgoi awkrt eszle xfiuj yengt dvgpm hcbeq
+
+a=3, b=10: asdlf xthoq bpwib ucfrg vbkdq asdmj ezybn
+
+a=3, b=11: xpaic uqeln ymtfy rzcod syhan xpajg bwvyk
+
+a=3, b=12: umxfz rnbik vjqcv owzla pvexk umxgd ytsvh
+
+a=3, b=13: rjucw okyfh sgnzs ltwix msbuh rjuda vqpse
+
+a=3, b=14: ogrzt lhvce pdkwp iqtfu jpyre ograx snmpb
+
+a=3, b=15: ldowq ieszb mahtm fnqcr gmvob ldoxu pkjmy
+
+a=3, b=16: ialtn fbpwy jxeqj cknzo djsly ialur mhgjv
+
+a=3, b=17: fxiqk cymtv gubng zhkwl agpiv fxiro jedgs
+
+a=3, b=18: cufnh zvjqs drykd wehti xdmfs cufol gbadp
+
+a=3, b=19: zrcke wsgnp aovha tbeqf uajcp zrcli dyxam
+
+a=3, b=20: wozhb tpdkm xlsex qybnc rxgzm wozif avuxj
+
+a=3, b=21: tlwey qmahj uipbu nvykz oudwj tlwfc xsrug
+
+a=3, b=22: qitbv njxeg rfmyr ksvhw lratg qitcz upord
+
+a=3, b=23: nfqys kgubd ocjvo hpset ioxqd nfqzw rmloa
+
+a=3, b=24: kcnvp hdrya lzgsl empbq fluna kcnwt ojilx
+
+a=3, b=25: hzksm eaovx iwdpi bjmyn cirkx hzktq lgfiu
+
+a=4, b=0: omsum kwgys yiaqy gimcw qykss omsea ceuyo
+
+a=4, b=1: kioqi gscuo uewmu ceiys mugoo kioaw yaquk
+
+a=4, b=2: gekme coyqk qasiq yaeuo iqckk gekws uwmqg
+
+a=4, b=3: cagia ykumg mwoem uwaqk emygg cagso qsimc
+
+a=4, b=4: ywcew ugqic iskai qswmg aiucc ywcok moeiy
+
+a=4, b=5: usyas qcmey eogwe mosic weqyy usykg ikaeu
+
+a=4, b=6: qouwo myiau akcsa ikoey samuu qougc egwaq
+
+a=4, b=7: mkqsk iuewq wgyow egkau owiqq mkqcy acswm
+
+a=4, b=8: igmog eqasm scuks acgwq ksemm igmyu wyosi
+
+a=4, b=9: ecikc amwoi oyqgo wycsm goaii eciuq sukoe
+
+a=4, b=10: ayegy wiske kumck suyoi ckwee ayeqm oqgka
+
+a=4, b=11: wuacu seoga gqiyg oquke ygsaa wuami kmcgw
+
+a=4, b=12: sqwyq oakcw cmeuc kmqga ucoww sqwie giycs
+
+a=4, b=13: omsum kwgys yiaqy gimcw qykss omsea ceuyo
+
+a=4, b=14: kioqi gscuo uewmu ceiys mugoo kioaw yaquk
+
+a=4, b=15: gekme coyqk qasiq yaeuo iqckk gekws uwmqg
+
+a=4, b=16: cagia ykumg mwoem uwaqk emygg cagso qsimc
+
+a=4, b=17: ywcew ugqic iskai qswmg aiucc ywcok moeiy
+
+a=4, b=18: usyas qcmey eogwe mosic weqyy usykg ikaeu
+
+a=4, b=19: qouwo myiau akcsa ikoey samuu qougc egwaq
+
+a=4, b=20: mkqsk iuewq wgyow egkau owiqq mkqcy acswm
+
+a=4, b=21: igmog eqasm scuks acgwq ksemm igmyu wyosi
+
+a=4, b=22: ecikc amwoi oyqgo wycsm goaii eciuq sukoe
+
+a=4, b=23: ayegy wiske kumck suyoi ckwee ayeqm oqgka
+
+a=4, b=24: wuacu seoga gqiyg oquke ygsaa wuami kmcgw
+
+a=4, b=25: sqwyq oakcw cmeuc kmqga ucoww sqwie giycs
+
+a=5, b=0: ycdzp tvbeq rxaur okpji hrgdq ycdsn wfmrl
+
+a=5, b=1: txyuk oqwzl msvpm jfked cmbyl txyni rahmg
+
+a=5, b=2: ostpf jlrug hnqkh eafzy xhwtg ostid mvchb
+
+a=5, b=3: jnoka egmpb cilfc zvaut scrob jnody hqxcw
+
+a=5, b=4: eijfv zbhkw xdgax uqvpo nxmjw eijyt clsxr
+
+a=5, b=5: zdeaq uwcfr sybvs plqkj isher zdeto xgnsm
+
+a=5, b=6: uyzvl prxam ntwqn kglfe dnczm uyzoj sbinh
+
+a=5, b=7: ptuqg kmsvh iorli fbgaz yixuh ptuje nwdic
+
+a=5, b=8: koplb fhnqc djmgd awbvu tdspc kopez irydx
+
+a=5, b=9: fjkgw acilx yehby vrwqp oynkx fjkzu dmtys
+
+a=5, b=10: aefbr vxdgs tzcwt qmrlk jtifs aefup yhotn
+
+a=5, b=11: vzawm qsybn ouxro lhmgf eodan vzapk tcjoi
+
+a=5, b=12: quvrh lntwi jpsmj gchba zjyvi quvkf oxejd
+
+a=5, b=13: lpqmc giord eknhe bxcwv uetqd lpqfa jszey
+
+a=5, b=14: gklhx bdjmy zficz wsxrq pzoly gklav enuzt
+
+a=5, b=15: bfgcs wyeht uadxu rnsml kujgt bfgvq zipuo
+
+a=5, b=16: wabxn rtzco pvysp minhg fpebo wabql udkpj
+
+a=5, b=17: rvwsi mouxj kqtnk hdicb akzwj rvwlg pyfke
+
+a=5, b=18: mqrnd hjpse floif cydxw vfure mqrgb ktafz
+
+a=5, b=19: hlmiy ceknz agjda xtysr qapmz hlmbw fovau
+
+a=5, b=20: cghdt xzfiu vbeyv sotnm lvkhu cghwr ajqvp
+
+a=5, b=21: xbcyo suadp qwztq njoih gqfcp xbcrm velqk
+
+a=5, b=22: swxtj npvyk lruol iejdc blaxk swxmh qzglf
+
+a=5, b=23: nrsoe ikqtf gmpjg dzeyx wgvsf nrshc lubga
+
+a=5, b=24: imnjz dfloa bhkeb yuzts rbqna imncx gpwbv
+
+a=5, b=25: dhieu yagjv wcfzw tpuon mwliv dhixs bkrwq
+
+a=6, b=0: isoes cuwko kmayk wmsqu ykcoo isoga qgeki
+
+a=6, b=1: cmiym woqei eguse qgmko sewii cmiau kayec
+
+a=6, b=2: wgcsg qikyc yaomy kagei myqcc wgcuo eusyw
+
+a=6, b=3: qawma kcesw suigs euayc gskww qawoi yomsq
+
+a=6, b=4: kuqgu ewymq mocam yousw ameqq kuqic sigmk
+
+a=6, b=5: eokao yqsgk giwug siomq ugykk eokcw mcage
+
+a=6, b=6: yieui skmae acqoa mcigk oasee yiewq gwuay
+
+a=6, b=7: scyoc meguy uwkiu gwcae iumyy scyqk aqous
+
+a=6, b=8: mwsiw gyaos oqeco aqwuy cogss mwske ukiom
+
+a=6, b=9: gqmcq asuim ikywi ukqos wiamm gqmey oecig
+
+a=6, b=10: akgwk umocg cesqc oekim qcugg akgys iywca
+
+a=6, b=11: ueaqe ogiwa wymkw iyecg kwoaa ueasm csqwu
+
+a=6, b=12: oyuky iacqu qsgeq csywa eqiuu oyumg wmkqo
+
+a=6, b=13: isoes cuwko kmayk wmsqu ykcoo isoga qgeki
+
+a=6, b=14: cmiym woqei eguse qgmko sewii cmiau kayec
+
+a=6, b=15: wgcsg qikyc yaomy kagei myqcc wgcuo eusyw
+
+a=6, b=16: qawma kcesw suigs euayc gskww qawoi yomsq
+
+a=6, b=17: kuqgu ewymq mocam yousw ameqq kuqic sigmk
+
+a=6, b=18: eokao yqsgk giwug siomq ugykk eokcw mcage
+
+a=6, b=19: yieui skmae acqoa mcigk oasee yiewq gwuay
+
+a=6, b=20: scyoc meguy uwkiu gwcae iumyy scyqk aqous
+
+a=6, b=21: mwsiw gyaos oqeco aqwuy cogss mwske ukiom
+
+a=6, b=22: gqmcq asuim ikywi ukqos wiamm gqmey oecig
+
+a=6, b=23: akgwk umocg cesqc oekim qcugg akgys iywca
+
+a=6, b=24: ueaqe ogiwa wymkw iyecg kwoaa ueasm csqwu
+
+a=6, b=25: oyuky iacqu qsgeq csywa eqiuu oyumg wmkqo
+
+a=7, b=0: sizjv ltrqm dbacd eovxg pdyzm sizun khwdf
+
+a=7, b=1: lbsco emkjf wutvw xhoqz iwrsf lbsng dapwy
+
+a=7, b=2: eulvh xfdcy pnmop qahjs bpkly eulgz wtipr
+
+a=7, b=3: xneoa qywvr igfhi jtacl uider xnezs pmbik
+
+a=7, b=4: qgxht jrpok bzyab cmtve nbwxk qgxsl ifubd
+
+a=7, b=5: jzqam ckihd usrtu vfmox gupqd jzqle bynuw
+
+a=7, b=6: csjtf vdbaw nlkmn oyfhq znijw csjex urgnp
+
+a=7, b=7: vlcmy owutp gedfg hryaj sgbcp vlcxq nkzgi
+
+a=7, b=8: oevfr hpnmi zxwyz akrtc lzuvi oevqj gdszb
+
+a=7, b=9: hxoyk aigfb sqprs tdkmv esnob hxojc zwlsu
+
+a=7, b=10: aqhrd tbzyu ljikl mwdfo xlghu aqhcv speln
+
+a=7, b=11: tjakw musrn ecbde fpwyh qezan tjavo lixeg
+
+a=7, b=12: mctdp fnlkg xvuwx yipra jxstg mctoh ebqxz
+
+a=7, b=13: fvmwi ygedz qonpq rbikt cqlmz fvmha xujqs
+
+a=7, b=14: yofpb rzxws jhgij kubdm vjefs yofat qncjl
+
+a=7, b=15: rhyiu ksqpl cazbc dnuwf ocxyl rhytm jgvce
+
+a=7, b=16: karbn dljie vtsuv wgnpy hvqre karmf czovx
+
+a=7, b=17: dtkug wecbx omlno pzgir aojkx dtkfy vshoq
+
+a=7, b=18: wmdnz pxvuq hfegh iszbk thcdq wmdyr olahj
+
+a=7, b=19: pfwgs iqonj ayxza blsud mavwj pfwrk hetac
+
+a=7, b=20: iypzl bjhgc trqst uelnw ftopc iypkd axmtv
+
+a=7, b=21: brise ucazv mkjlm nxegp ymhiv bridw tqfmo
+
+a=7, b=22: ukblx nvtso fdcef gqxzi rfabo ukbwp mjyfh
+
+a=7, b=23: ndueq gomlh ywvxy zjqsb kytuh ndupi fcrya
+
+a=7, b=24: gwnxj zhfea rpoqr scjlu drmna gwnib yvkrt
+
+a=7, b=25: zpgqc sayxt kihjk lvcen wkfgt zpgbu rodkm
+
+a=8, b=0: cykoy usmwk wqagw mqyes gwukk cykia eiowc
+
+a=8, b=1: uqcgq mkeoc oisyo eiqwk yomcc uqcas wagou
+
+a=8, b=2: miuyi ecwgu gakqg waioc qgeuu miusk osygm
+
+a=8, b=3: eamqa wuoym ysciy osagu iywmm eamkc gkqye
+
+a=8, b=4: wseis omgqe qkuaq gksym aqoee wsecu yciqw
+
+a=8, b=5: okwak geyiw icmsi yckqe sigww okwum quaio
+
+a=8, b=6: gcosc ywqao aueka quciw kayoo gcome imsag
+
+a=8, b=7: yugku qoisg smwcs imuao csqgg yugew aeksy
+
+a=8, b=8: qmycm igaky keouk aemsg ukiyy qmywo swckq
+
+a=8, b=9: ieque ayscq cwgmc sweky mcaqq ieqog kouci
+
+a=8, b=10: awimw sqkui uoyeu kowcq eusii awigy cgmua
+
+a=8, b=11: soaeo kicma mgqwm cgoui wmkaa soayq uyems
+
+a=8, b=12: kgswg caues eyioe uygma oecss kgsqi mqwek
+
+a=8, b=13: cykoy usmwk wqagw mqyes gwukk cykia eiowc
+
+a=8, b=14: uqcgq mkeoc oisyo eiqwk yomcc uqcas wagou
+
+a=8, b=15: miuyi ecwgu gakqg waioc qgeuu miusk osygm
+
+a=8, b=16: eamqa wuoym ysciy osagu iywmm eamkc gkqye
+
+a=8, b=17: wseis omgqe qkuaq gksym aqoee wsecu yciqw
+
+a=8, b=18: okwak geyiw icmsi yckqe sigww okwum quaio
+
+a=8, b=19: gcosc ywqao aueka quciw kayoo gcome imsag
+
+a=8, b=20: yugku qoisg smwcs imuao csqgg yugew aeksy
+
+a=8, b=21: qmycm igaky keouk aemsg ukiyy qmywo swckq
+
+a=8, b=22: ieque ayscq cwgmc sweky mcaqq ieqog kouci
+
+a=8, b=23: awimw sqkui uoyeu kowcq eusii awigy cgmua
+
+a=8, b=24: soaeo kicma mgqwm cgoui wmkaa soayq uyems
+
+a=8, b=25: kgswg caues eyioe uygma oecss kgsqi mqwek
+
+a=9, b=0: movtb drhci pfakp usble xpqvi movwn yjgpz
+
+a=9, b=1: dfmks uiytz gwrbg ljscv oghmz dfmne paxgq
+
+a=9, b=2: uwdbj lzpkq xnisx cajtm fxydq uwdev groxh
+
+a=9, b=3: lnusa cqgbh oezjo trakd wopuh lnuvm xifoy
+
+a=9, b=4: celjr thxsy fvqaf kirbu nfgly celmd ozwfp
+
+a=9, b=5: tvcai kyojp wmhrw bzisl ewxcp tvcdu fqnwg
+
+a=9, b=6: kmtrz bpfag ndyin sqzjc vnotg kmtul whenx
+
+a=9, b=7: bdkiq sgwrx eupze jhqat mefkx bdklc nyveo
+
+a=9, b=8: subzh jxnio vlgqv ayhrk dvwbo subct epmvf
+
+a=9, b=9: jlsqy aoezf mcxhm rpyib umnsf jlstk vgdmw
+
+a=9, b=10: acjhp rfvqw dtoyd igpzs ldejw acjkb mxudn
+
+a=9, b=11: rtayg iwmhn ukfpu zxgqj cuvan rtabs dolue
+
+a=9, b=12: ikrpx zndye lbwgl qoxha tlmre ikrsj ufclv
+
+a=9, b=13: zbigo qeupv csnxc hfoyr kcdiv zbija lwtcm
+
+a=9, b=14: qszxf hvlgm tjeot ywfpi btuzm qszar cnktd
+
+a=9, b=15: hjqow ymcxd kavfk pnwgz sklqd hjqri tebku
+
+a=9, b=16: yahfn pdtou brmwb genxq jbchu yahiz kvsbl
+
+a=9, b=17: prywe gukfl sidns xveoh astyl pryzq bmjsc
+
+a=9, b=18: gipnv xlbwc jzuej omvfy rjkpc gipqh sdajt
+
+a=9, b=19: xzgem ocsnt aqlva fdmwp iabgt xzghy jurak
+
+a=9, b=20: oqxvd ftjek rhcmr wudng zrsxk oqxyp alirb
+
+a=9, b=21: fhomu wkavb iytdi nluex qijob fhopg rczis
+
+a=9, b=22: wyfdl nbrms zpkuz eclvo hzafs wyfgx itqzj
+
+a=9, b=23: npwuc esidj qgblq vtcmf yqrwj npwxo zkhqa
+
+a=9, b=24: egnlt vjzua hxsch mktdw phina egnof qbyhr
+
+a=9, b=25: vxeck maqlr yojty dbkun gyzer vxefw hspyi
+
+a=10, b=0: wegye mqcig iuaoi cuesq oimgg wegka skyiw
+
+a=10, b=1: muwou cgsyw ykqey skuig eycww muwaq iaoym
+
+a=10, b=2: ckmek swiom oaguo iakyw uosmm ckmqg yqeoc
+
+a=10, b=3: sacua imyec eqwke yqaom keicc sacgw ogues
+
+a=10, b=4: iqskq ycous ugmau ogqec auyss iqswm ewkui
+
+a=10, b=5: ygiag oseki kwcqk ewgus qkoii ygimc umaky
+
+a=10, b=6: owyqw eiuay amsga umwki gaeyy owycs kcqao
+
+a=10, b=7: emogm uykqo qciwq kcmay wquoo emosi asgqe
+
+a=10, b=8: ucewc koage gsymg ascqo mgkee uceiy qiwgu
+
+a=10, b=9: ksums aeqwu wiocw qisge cwauu ksuyo gymwk
+
+a=10, b=10: aikci qugmk myesm gyiwu smqkk aikoe wocma
+
+a=10, b=11: qyasy gkwca couic woymk icgaa qyaeu mescq
+
+a=10, b=12: goqio wamsq sekys meoca yswqq goquk cuisg
+
+a=10, b=13: wegye mqcig iuaoi cuesq oimgg wegka skyiw
+
+a=10, b=14: muwou cgsyw ykqey skuig eycww muwaq iaoym
+
+a=10, b=15: ckmek swiom oaguo iakyw uosmm ckmqg yqeoc
+
+a=10, b=16: sacua imyec eqwke yqaom keicc sacgw ogues
+
+a=10, b=17: iqskq ycous ugmau ogqec auyss iqswm ewkui
+
+a=10, b=18: ygiag oseki kwcqk ewgus qkoii ygimc umaky
+
+a=10, b=19: owyqw eiuay amsga umwki gaeyy owycs kcqao
+
+a=10, b=20: emogm uykqo qciwq kcmay wquoo emosi asgqe
+
+a=10, b=21: ucewc koage gsymg ascqo mgkee uceiy qiwgu
+
+a=10, b=22: ksums aeqwu wiocw qisge cwauu ksuyo gymwk
+
+a=10, b=23: aikci qugmk myesm gyiwu smqkk aikoe wocma
+
+a=10, b=24: qyasy gkwca couic woymk icgaa qyaeu mescq
+
+a=10, b=25: goqio wamsq sekys meoca yswqq goquk cuisg
+
+a=11, b=0: gurdh vpxoe bjasb kwhzc fbire guryn mlqbt
+
+a=11, b=1: vjgsw kemdt qyphq zlwor uqxgt vjgnc bafqi
+
+a=11, b=2: kyvhl ztbsi fnewf oaldg jfmvi kyvcr qpufx
+
+a=11, b=3: znkwa oiqhx uctlu dpasv yubkx znkrg fejum
+
+a=11, b=4: oczlp dxfwm jriaj sephk njqzm oczgv utyjb
+
+a=11, b=5: droae smulb ygxpy htewz cyfob drovk jinyq
+
+a=11, b=6: sgdpt hbjaq nvmen witlo rnudq sgdkz yxcnf
+
+a=11, b=7: hvsei wqypf ckbtc lxiad gcjsf hvszo nmrcu
+
+a=11, b=8: wkhtx lfneu rzqir amxps vryhu wkhod cbgrj
+
+a=11, b=9: lzwim auctj gofxg pbmeh kgnwj lzwds rqvgy
+
+a=11, b=10: aolxb pjriy vdumv eqbtw zvcly aolsh gfkvn
+
+a=11, b=11: pdamq eygxn ksjbk tfqil okran pdahw vuzkc
+
+a=11, b=12: espbf tnvmc zhyqz iufxa dzgpc espwl kjozr
+
+a=11, b=13: thequ ickbr ownfo xjump sover thela zydog
+
+a=11, b=14: iwtfj xrzqg dlcud myjbe hdktg iwtap onsdv
+
+a=11, b=15: xliuy mgofv sarjs bnyqt wsziv xlipe dchsk
+
+a=11, b=16: maxjn bvduk hpgyh qcnfi lhoxk maxet srwhz
+
+a=11, b=17: bpmyc qksjz wevnw frcux awdmz bpmti hglwo
+
+a=11, b=18: qebnr fzhyo ltkcl ugrjm plsbo qebix wvald
+
+a=11, b=19: ftqcg uownd aizra jvgyb eahqd ftqxm lkpas
+
+a=11, b=20: uifrv jdlcs pxogp ykvnq tpwfs uifmb azeph
+
+a=11, b=21: jxugk ysarh emdve nzkcf ieluh jxubq potew
+
+a=11, b=22: ymjvz nhpgw tbskt cozru xtajw ymjqf editl
+
+a=11, b=23: nbyko cwevl iqhzi rdogj mipyl nbyfu tsxia
+
+a=11, b=24: cqnzd rltka xfwox gsdvy bxena cqnuj ihmxp
+
+a=11, b=25: rfcos gaizp muldm vhskn qmtcp rfcjy xwbme
+
+a=12, b=0: qkcik eosuc uyawu sykgo wuecc qkcma gmiuq
+
+a=12, b=1: eyqwy scgiq imoki gmyuc kisqq eyqao uawie
+
+a=12, b=2: smekm gquwe wacyw uamiq ywgee smeoc iokws
+
+a=12, b=3: gasya ueiks koqmk ioawe mkuss gascq wcykg
+
+a=12, b=4: uogmo iswyg yceay wcoks ayigg uogqe kqmyu
+
+a=12, b=5: icuac wgkmu mqsom kqcyg omwuu icues yeami
+
+a=12, b=6: wqioq kuyai aegca yeqmu cakii wqisg msoaw
+
+a=12, b=7: kewce yimow osuqo mseai qoyww kewgu agcok
+
+a=12, b=8: yskqs mwack cgiec agsow ecmkk yskui ouqcy
+
+a=12, b=9: mgyeg akoqy quwsq ougck sqayy mgyiw cieqm
+
+a=12, b=10: aumsu oycem eikge ciuqy geomm aumwk qwsea
+
+a=12, b=11: oiagi cmqsa swyus qwiem uscaa oiaky ekgso
+
+a=12, b=12: cwouw qaego gkmig ekwsa igqoo cwoym syugc
+
+a=12, b=13: qkcik eosuc uyawu sykgo wuecc qkcma gmiuq
+
+a=12, b=14: eyqwy scgiq imoki gmyuc kisqq eyqao uawie
+
+a=12, b=15: smekm gquwe wacyw uamiq ywgee smeoc iokws
+
+a=12, b=16: gasya ueiks koqmk ioawe mkuss gascq wcykg
+
+a=12, b=17: uogmo iswyg yceay wcoks ayigg uogqe kqmyu
+
+a=12, b=18: icuac wgkmu mqsom kqcyg omwuu icues yeami
+
+a=12, b=19: wqioq kuyai aegca yeqmu cakii wqisg msoaw
+
+a=12, b=20: kewce yimow osuqo mseai qoyww kewgu agcok
+
+a=12, b=21: yskqs mwack cgiec agsow ecmkk yskui ouqcy
+
+a=12, b=22: mgyeg akoqy quwsq ougck sqayy mgyiw cieqm
+
+a=12, b=23: aumsu oycem eikge ciuqy geomm aumwk qwsea
+
+a=12, b=24: oiagi cmqsa swyus qwiem uscaa oiaky ekgso
+
+a=12, b=25: cwouw qaego gkmig ekwsa igqoo cwoym syugc
+
+a=13, b=0: aannn nnnaa nnaan aanna nnana aanan anann
+
+a=13, b=1: nnaaa aaann aanna nnaan aanan nnana nanaa
+
+a=13, b=2: aannn nnnaa nnaan aanna nnana aanan anann
+
+a=13, b=3: nnaaa aaann aanna nnaan aanan nnana nanaa
+
+a=13, b=4: aannn nnnaa nnaan aanna nnana aanan anann
+
+a=13, b=5: nnaaa aaann aanna nnaan aanan nnana nanaa
+
+a=13, b=6: aannn nnnaa nnaan aanna nnana aanan anann
+
+a=13, b=7: nnaaa aaann aanna nnaan aanan nnana nanaa
+
+a=13, b=8: aannn nnnaa nnaan aanna nnana aanan anann
+
+a=13, b=9: nnaaa aaann aanna nnaan aanan nnana nanaa
+
+a=13, b=10: aannn nnnaa nnaan aanna nnana aanan anann
+
+a=13, b=11: nnaaa aaann aanna nnaan aanan nnana nanaa
+
+a=13, b=12: aannn nnnaa nnaan aanna nnana aanan anann
+
+a=13, b=13: nnaaa aaann aanna nnaan aanan nnana nanaa
+
+a=13, b=14: aannn nnnaa nnaan aanna nnana aanan anann
+
+a=13, b=15: nnaaa aaann aanna nnaan aanan nnana nanaa
+
+a=13, b=16: aannn nnnaa nnaan aanna nnana aanan anann
+
+a=13, b=17: nnaaa aaann aanna nnaan aanan nnana nanaa
+
+a=13, b=18: aannn nnnaa nnaan aanna nnana aanan anann
+
+a=13, b=19: nnaaa aaann aanna nnaan aanan nnana nanaa
+
+a=13, b=20: aannn nnnaa nnaan aanna nnana aanan anann
+
+a=13, b=21: nnaaa aaann aanna nnaan aanan nnana nanaa
+
+a=13, b=22: aannn nnnaa nnaan aanna nnana aanan anann
+
+a=13, b=23: nnaaa aaann aanna nnaan aanan nnana nanaa
+
+a=13, b=24: aannn nnnaa nnaan aanna nnana aanan anann
+
+a=13, b=25: nnaaa aaann aanna nnaan aanan nnana nanaa
+
+a=14, b=0: kqysq wmigy gcaeg icqum egwyy kqyoa uosgk
+
+a=14, b=1: wckec iyusk somqs uocgy qsikk wckam gaesw
+
+a=14, b=2: iowqo ukgew eayce gaosk ceuww iowmy smqei
+
+a=14, b=3: uaica gwsqi qmkoq smaew oqgii uaiyk eycqu
+
+a=14, b=4: gmuom siecu cywac eymqi acsuu gmukw qkocg
+
+a=14, b=5: sygay euqog okimo qkycu moegg sygwi cwaos
+
+a=14, b=6: eksmk qgcas awuya cwkog yaqss eksiu oimae
+
+a=14, b=7: qweyw csome migkm oiwas kmcee qweug auymq
+
+a=14, b=8: ciqki oeayq yuswy auime wyoqq ciqgs mgkyc
+
+a=14, b=9: oucwu aqmkc kgeik mguyq ikacc oucse yswko
+
+a=14, b=10: agoig mcywo wsquw ysgkc uwmoo agoeq keiwa
+
+a=14, b=11: msaus yokia iecgi keswo giyaa msaqc wquim
+
+a=14, b=12: yemge kawum uqosu wqeia sukmm yemco icguy
+
+a=14, b=13: kqysq wmigy gcaeg icqum egwyy kqyoa uosgk
+
+a=14, b=14: wckec iyusk somqs uocgy qsikk wckam gaesw
+
+a=14, b=15: iowqo ukgew eayce gaosk ceuww iowmy smqei
+
+a=14, b=16: uaica gwsqi qmkoq smaew oqgii uaiyk eycqu
+
+a=14, b=17: gmuom siecu cywac eymqi acsuu gmukw qkocg
+
+a=14, b=18: sygay euqog okimo qkycu moegg sygwi cwaos
+
+a=14, b=19: eksmk qgcas awuya cwkog yaqss eksiu oimae
+
+a=14, b=20: qweyw csome migkm oiwas kmcee qweug auymq
+
+a=14, b=21: ciqki oeayq yuswy auime wyoqq ciqgs mgkyc
+
+a=14, b=22: oucwu aqmkc kgeik mguyq ikacc oucse yswko
+
+a=14, b=23: agoig mcywo wsquw ysgkc uwmoo agoeq keiwa
+
+a=14, b=24: msaus yokia iecgi keswo giyaa msaqc wquim
+
+a=14, b=25: yemge kawum uqosu wqeia sukmm yemco icguy
+
+a=15, b=0: ugjxt fldmw zraiz qetby vzsjw ugjcn opkzh
+
+a=15, b=1: fruie qwoxh kcltk bpemj gkduh fruny zavks
+
+a=15, b=2: qcftp bhzis vnwev mapxu rvofs qcfyj klgvd
+
+a=15, b=3: bnqea msktd gyhpg xlaif cgzqd bnqju vwrgo
+
+a=15, b=4: mybpl xdveo rjsar iwltq nrkbo mybuf ghcrz
+
+a=15, b=5: xjmaw iogpz cudlc thweb ycvmz xjmfq rsnck
+
+a=15, b=6: iuxlh tzrak nfown eshpm jngxk iuxqb cdynv
+
+a=15, b=7: tfiws ekclv yqzhy pdsax uyriv tfibm nojyg
+
+a=15, b=8: eqthd pvnwg jbksj aodli fjctg eqtmx yzujr
+
+a=15, b=9: pbeso agyhr umvdu lzowt quner pbexi jkfuc
+
+a=15, b=10: ampdz lrjsc fxgof wkzhe bfypc ampit uvqfn
+
+a=15, b=11: lxaok wcudn qirzq hvksp mqjan lxate fgbqy
+
+a=15, b=12: wilzv hnfoy btckb sgvda xbuly wilep qrmbj
+
+a=15, b=13: htwkg syqzj menvm drgol imfwj htwpa bcxmu
+
+a=15, b=14: sehvr djbku xpygx ocrzw txqhu sehal mnixf
+
+a=15, b=15: dpsgc oumvf iajri znckh eibsf dpslw xytiq
+
+a=15, b=16: oadrn zfxgq tluct kynvs ptmdq oadwh ijetb
+
+a=15, b=17: zlocy kqirb ewfne vjygd aexob zlohs tupem
+
+a=15, b=18: kwznj vbtcm phqyp gujro lpizm kwzsd efapx
+
+a=15, b=19: vhkyu gmenx asbja rfucz watkx vhkdo pqlai
+
+a=15, b=20: gsvjf rxpyi ldmul cqfnk hlevi gsvoz abwlt
+
+a=15, b=21: rdguq ciajt woxfw nbqyv swpgt rdgzk lmhwe
+
+a=15, b=22: corfb ntlue hziqh ymbjg dhare corkv wxshp
+
+a=15, b=23: nzcqm yewfp sktbs jxmur oslcp nzcvg hidsa
+
+a=15, b=24: yknbx jphqa dvemd uixfc zdwna ykngr stodl
+
+a=15, b=25: jvymi uasbl ogpxo ftiqn kohyl jvyrc dezow
+
+a=16, b=0: ewucw okysu sgams ygwik msouu ewuqa iqcse
+
+a=16, b=1: ogemg yuice cqkwc iqgsu wcyee ogeak samco
+
+a=16, b=2: yqowq iesmo maugm saqce gmioo yqoku ckwmy
+
+a=16, b=3: iayga socwy wkeqw ckamo qwsyy iayue mugwi
+
+a=16, b=4: skiqk cymgi guoag mukwy agcii skieo weqgs
+
+a=16, b=5: cusau miwqs qeykq weugi kqmss cusoy goaqc
+
+a=16, b=6: mecke wsgac aoiua goeqs uawcc mecyi qykam
+
+a=16, b=7: womuo gcqkm kysek qyoac ekgmm womis aiukw
+
+a=16, b=8: gywey qmauw uicou aiykm ouqww gywsc kseug
+
+a=16, b=9: qigoi awkeg esmye ksiuw yeagg qigcm ucoeq
+
+a=16, b=10: asqys kguoq ocwio ucseg iokqq asqmw emyoa
+
+a=16, b=11: kcaic uqeya ymgsy emcoq syuaa kcawg owiyk
+
+a=16, b=12: umksm eaoik iwqci owmya ciekk umkgq ygsiu
+
+a=16, b=13: ewucw okysu sgams ygwik msouu ewuqa iqcse
+
+a=16, b=14: ogemg yuice cqkwc iqgsu wcyee ogeak samco
+
+a=16, b=15: yqowq iesmo maugm saqce gmioo yqoku ckwmy
+
+a=16, b=16: iayga socwy wkeqw ckamo qwsyy iayue mugwi
+
+a=16, b=17: skiqk cymgi guoag mukwy agcii skieo weqgs
+
+a=16, b=18: cusau miwqs qeykq weugi kqmss cusoy goaqc
+
+a=16, b=19: mecke wsgac aoiua goeqs uawcc mecyi qykam
+
+a=16, b=20: womuo gcqkm kysek qyoac ekgmm womis aiukw
+
+a=16, b=21: gywey qmauw uicou aiykm ouqww gywsc kseug
+
+a=16, b=22: qigoi awkeg esmye ksiuw yeagg qigcm ucoeq
+
+a=16, b=23: asqys kguoq ocwio ucseg iokqq asqmw emyoa
+
+a=16, b=24: kcaic uqeya ymgsy emcoq syuaa kcawg owiyk
+
+a=16, b=25: umksm eaoik iwqci owmya ciekk umkgq ygsiu
+
+a=17, b=0: omfhz xjtys lvaql gizpw dlkfs omfen crulb
+
+a=17, b=1: xvoqi gschb uejzu priyf mutob xvonw laduk
+
+a=17, b=2: gexzr pblqk dnsid yarho vdcxk gexwf ujmdt
+
+a=17, b=3: pngia ykuzt mwbrm hjaqx emlgt pngfo dsvmc
+
+a=17, b=4: ywprj htdic vfkav qsjzg nvupc ywpox mbevl
+
+a=17, b=5: hfyas qcmrl eotje zbsip wedyl hfyxg vkneu
+
+a=17, b=6: qohjb zlvau nxcsn ikbry fnmhu qohgp etwnd
+
+a=17, b=7: zxqsk iuejd wglbw rtkah owvqd zxqpy ncfwm
+
+a=17, b=8: igzbt rdnsm fpukf actjq xfezm igzyh wlofv
+
+a=17, b=9: rpikc amwbv oydto jlcsz goniv rpihq fuxoe
+
+a=17, b=10: ayrtl jvfke xhmcx sulbi pxwre ayrqz odgxn
+
+a=17, b=11: jhacu seotn gqvlg bdukr ygfan jhazi xmpgw
+
+a=17, b=12: sqjld bnxcw pzeup kmdta hpojw sqjir gvypf
+
+a=17, b=13: bzsum kwglf yindy tvmcj qyxsf bzsra pehyo
+
+a=17, b=14: kibdv tfpuo hrwmh cevls zhgbo kibaj ynqhx
+
+a=17, b=15: trkme coydx qafvq lneub iqpkx trkjs hwzqg
+
+a=17, b=16: catvn lxhmg zjoez uwndk rzytg catsb qfizp
+
+a=17, b=17: ljcew ugqvp isxni dfwmt aihcp ljcbk zoriy
+
+a=17, b=18: uslnf dpzey rbgwr mofvc jrqly uslkt ixarh
+
+a=17, b=19: dbuwo myinh akpfa vxoel sazuh dbutc rgjaq
+
+a=17, b=20: mkdfx vhrwq jtyoj egxnu bjidq mkdcl apsjz
+
+a=17, b=21: vtmog eqafz schxs npgwd ksrmz vtmlu jybsi
+
+a=17, b=22: ecvxp nzjoi blqgb wypfm tbavi ecvud shkbr
+
+a=17, b=23: nlegy wisxr kuzpk fhyov ckjer nledm bqtka
+
+a=17, b=24: wunph frbga tdiyt oqhxe ltsna wunmv kzctj
+
+a=17, b=25: fdwyq oakpj cmrhc xzqgn ucbwj fdwve tilcs
+
+a=18, b=0: ycqmc gioeq ekaue okcwi uegqq ycqsa wsmey
+
+a=18, b=1: gkyuk oqwmy msicm wskeq cmoyy gkyai eaumg
+
+a=18, b=2: osgcs wyeug uaqku easmy kuwgg osgiq micuo
+
+a=18, b=3: waoka egmco ciysc miaug sceoo waoqy uqkcw
+
+a=18, b=4: eiwsi moukw kqgak uqico akmww eiwyg cyske
+
+a=18, b=5: mqeaq uwcse syois cyqkw isuee mqego kgasm
+
+a=18, b=6: uymiy cekam agwqa kgyse qacmm uymow soiau
+
+a=18, b=7: cguqg kmsiu ioeyi sogam yikuu cguwe awqic
+
+a=18, b=8: kocyo suaqc qwmgq awoiu gqscc kocem ieyqk
+
+a=18, b=9: swkgw aciyk yeuoy iewqc oyakk swkmu qmgys
+
+a=18, b=10: aesoe ikqgs gmcwg qmeyk wgiss aesuc yuoga
+
+a=18, b=11: imawm qsyoa oukeo yumgs eoqaa imack gcwoi
+
+a=18, b=12: quieu yagwi wcsmw gcuoa mwyii quiks okewq
+
+a=18, b=13: ycqmc gioeq ekaue okcwi uegqq ycqsa wsmey
+
+a=18, b=14: gkyuk oqwmy msicm wskeq cmoyy gkyai eaumg
+
+a=18, b=15: osgcs wyeug uaqku easmy kuwgg osgiq micuo
+
+a=18, b=16: waoka egmco ciysc miaug sceoo waoqy uqkcw
+
+a=18, b=17: eiwsi moukw kqgak uqico akmww eiwyg cyske
+
+a=18, b=18: mqeaq uwcse syois cyqkw isuee mqego kgasm
+
+a=18, b=19: uymiy cekam agwqa kgyse qacmm uymow soiau
+
+a=18, b=20: cguqg kmsiu ioeyi sogam yikuu cguwe awqic
+
+a=18, b=21: kocyo suaqc qwmgq awoiu gqscc kocem ieyqk
+
+a=18, b=22: swkgw aciyk yeuoy iewqc oyakk swkmu qmgys
+
+a=18, b=23: aesoe ikqgs gmcwg qmeyk wgiss aesuc yuoga
+
+a=18, b=24: imawm qsyoa oukeo yumgs eoqaa imack gcwoi
+
+a=18, b=25: quieu yagwi wcsmw gcuoa mwyii quiks okewq
+
+a=19, b=0: isbrf phjko xzayx wmfdu lxcbo isbgn qtexv
+
+a=19, b=1: pziym woqrv eghfe dtmkb sejiv pzinu xalec
+
+a=19, b=2: wgpft dvxyc lnoml katri zlqpc wgpub ehslj
+
+a=19, b=3: dnwma kcefj suvts rhayp gsxwj dnwbi lozsq
+
+a=19, b=4: kudth rjlmq zbcaz yohfw nzedq kudip svgzx
+
+a=19, b=5: rbkao yqstx gijhg fvomd uglkx rbkpw zcnge
+
+a=19, b=6: yirhv fxzae npqon mcvtk bnsre yirwd gjunl
+
+a=19, b=7: fpyoc meghl uwxvu tjcar iuzyl fpydk nqbus
+
+a=19, b=8: mwfvj tlnos bdecb aqjhy pbgfs mwfkr uxibz
+
+a=19, b=9: tdmcq asuvz iklji hxqof winmz tdmry bepig
+
+a=19, b=10: aktjx hzbcg prsqp oexvm dputg aktyf ilwpn
+
+a=19, b=11: hraqe ogijn wyzxw vlect kwban hrafm psdwu
+
+a=19, b=12: oyhxl vnpqu dfged cslja rdihu oyhmt wzkdb
+
+a=19, b=13: vfoes cuwxb kmnlk jzsqh ykpob vfota dgrki
+
+a=19, b=14: cmvlz jbdei rtusr qgzxo frwvi cmvah knyrp
+
+a=19, b=15: jtcsg qiklp yabzy xngev mydcp jtcho rufyw
+
+a=19, b=16: qajzn xprsw fhigf eunlc tfkjw qajov ybmfd
+
+a=19, b=17: xhqgu ewyzd mopnm lbusj amrqd xhqvc fitmk
+
+a=19, b=18: eoxnb ldfgk tvwut sibzq htyxk eoxcj mpatr
+
+a=19, b=19: lveui skmnr acdba zpigx oafer lvejq twhay
+
+a=19, b=20: sclbp zrtuy hjkih gwpne vhmly sclqx adohf
+
+a=19, b=21: zjsiw gyabf oqrpo ndwul cotsf zjsxe hkvom
+
+a=19, b=22: gqzpd nfhim vxywv ukdbs jvazm gqzel orcvt
+
+a=19, b=23: nxgwk umopt cefdc brkiz qchgt nxgls vyjca
+
+a=19, b=24: uendr btvwa jlmkj iyrpg xjona uensz cfqjh
+
+a=19, b=25: bluky iacdh qstrq pfywn eqvuh bluzg jmxqo
+
+a=20, b=0: simwi ygeqm qoacq eoikg cqymm simua kuwqs
+
+a=20, b=1: yosco emkws wugiw kuoqm iwess yosag qacwy
+
+a=20, b=2: euyiu ksqcy camoc qauws ockyy euygm wgice
+
+a=20, b=3: kaeoa qywie igsui wgacy uiqee kaems cmoik
+
+a=20, b=4: qgkug wecok omyao cmgie aowkk qgksy isuoq
+
+a=20, b=5: wmqam ckiuq usegu ismok gucqq wmqye oyauw
+
+a=20, b=6: cswgs iqoaw aykma oysuq maiww cswek uegac
+
+a=20, b=7: iycmy owugc geqsg ueyaw sgocc iyckq akmgi
+
+a=20, b=8: oeise ucami mkwym akegc ymuii oeiqw gqsmo
+
+a=20, b=9: ukoyk aigso sqces gqkmi esaoo ukowc mwysu
+
+a=20, b=10: aqueq gomyu ywiky mwqso kyguu aquci sceya
+
+a=20, b=11: gwakw musea ecoqe scwyu qemaa gwaio yikeg
+
+a=20, b=12: mcgqc saykg kiuwk yicea wksgg mcgou eoqkm
+
+a=20, b=13: simwi ygeqm qoacq eoikg cqymm simua kuwqs
+
+a=20, b=14: yosco emkws wugiw kuoqm iwess yosag qacwy
+
+a=20, b=15: euyiu ksqcy camoc qauws ockyy euygm wgice
+
+a=20, b=16: kaeoa qywie igsui wgacy uiqee kaems cmoik
+
+a=20, b=17: qgkug wecok omyao cmgie aowkk qgksy isuoq
+
+a=20, b=18: wmqam ckiuq usegu ismok gucqq wmqye oyauw
+
+a=20, b=19: cswgs iqoaw aykma oysuq maiww cswek uegac
+
+a=20, b=20: iycmy owugc geqsg ueyaw sgocc iyckq akmgi
+
+a=20, b=21: oeise ucami mkwym akegc ymuii oeiqw gqsmo
+
+a=20, b=22: ukoyk aigso sqces gqkmi esaoo ukowc mwysu
+
+a=20, b=23: aqueq gomyu ywiky mwqso kyguu aquci sceya
+
+a=20, b=24: gwakw musea ecoqe scwyu qemaa gwaio yikeg
+
+a=20, b=25: mcgqc saykg kiuwk yicea wksgg mcgou eoqkm
+
+a=21, b=0: cyxbl hfzwk jdagj mqlrs tjuxk cyxin evojp
+
+a=21, b=1: hdcgq mkebp oiflo rvqwx yozcp hdcns jatou
+
+a=21, b=2: mihlv rpjgu tnkqt wavbc dtehu mihsx ofytz
+
+a=21, b=3: rnmqa wuolz yspvy bfagh iyjmz rnmxc tkdye
+
+a=21, b=4: wsrvf bztqe dxuad gkflm ndore wsrch ypidj
+
+a=21, b=5: bxwak geyvj iczfi lpkqr sitwj bxwhm dunio
+
+a=21, b=6: gcbfp ljdao nhekn qupvw xnybo gcbmr izsnt
+
+a=21, b=7: lhgku qoift smjps vzuab csdgt lhgrw nexsy
+
+a=21, b=8: qmlpz vtnky xroux aezfg hxily qmlwb sjcxd
+
+a=21, b=9: vrque ayspd cwtzc fjekl mcnqd vrqbg xohci
+
+a=21, b=10: awvzj fdxui hbyeh kojpq rhsvi awvgl ctmhn
+
+a=21, b=11: fbaeo kiczn mgdjm ptouv wmxan fbalq hyrms
+
+a=21, b=12: kgfjt pnhes rlior uytza brcfs kgfqv mdwrx
+
+a=21, b=13: plkoy usmjx wqntw zdyef gwhkx plkva ribwc
+
+a=21, b=14: uqptd zxroc bvsyb eidjk lbmpc uqpaf wngbh
+
+a=21, b=15: zvuyi ecwth gaxdg jniop qgruh zvufk bslgm
+
+a=21, b=16: eazdn jhbym lfcil osntu vlwzm eazkp gxqlr
+
+a=21, b=17: jfeis omgdr qkhnq txsyz aqber jfepu lcvqw
+
+a=21, b=18: okjnx trliw vpmsv ycxde fvgjw okjuz qhavb
+
+a=21, b=19: tposc ywqnb aurxa dhcij kalob tpoze vmfag
+
+a=21, b=20: yutxh dbvsg fzwcf imhno pfqtg yutej arkfl
+
+a=21, b=21: dzycm igaxl kebhk nrmst ukvyl dzyjo fwpkq
+
+a=21, b=22: iedhr nlfcq pjgmp swrxy zpadq iedot kbupv
+
+a=21, b=23: njimw sqkhv uolru xbwcd eufiv njity pgzua
+
+a=21, b=24: sonrb xvpma ztqwz cgbhi jzkna sonyd ulezf
+
+a=21, b=25: xtswg caurf eyvbe hlgmn oepsf xtsdi zqjek
+
+a=22, b=0: moigo qeuci csakc usoye kcqii moiwa ywgcm
+
+a=22, b=1: qsmks uiygm gweog ywsci ogumm qsmae cakgq
+
+a=22, b=2: uwqow ymckq kaisk cawgm skyqq uwqei geoku
+
+a=22, b=3: yausa cqgou oemwo geakq wocuu yauim kisoy
+
+a=22, b=4: ceywe guksy siqas kieou asgyy ceymq omwsc
+
+a=22, b=5: gicai kyowc wmuew omisy ewkcc gicqu sqawg
+
+a=22, b=6: kmgem ocsag aqyia sqmwc iaogg kmguy wueak
+
+a=22, b=7: oqkiq sgwek eucme wuqag meskk oqkyc ayieo
+
+a=22, b=8: suomu wkaio iygqi ayuek qiwoo suocg ecmis
+
+a=22, b=9: wysqy aoems mckum ecyio umass wysgk igqmw
+
+a=22, b=10: acwuc esiqw qgoyq igcms yqeww acwko mkuqa
+
+a=22, b=11: egayg iwmua ukscu mkgqw cuiaa egaos qoyue
+
+a=22, b=12: ikeck maqye yowgy qokua gymee ikesw uscyi
+
+a=22, b=13: moigo qeuci csakc usoye kcqii moiwa ywgcm
+
+a=22, b=14: qsmks uiygm gweog ywsci ogumm qsmae cakgq
+
+a=22, b=15: uwqow ymckq kaisk cawgm skyqq uwqei geoku
+
+a=22, b=16: yausa cqgou oemwo geakq wocuu yauim kisoy
+
+a=22, b=17: ceywe guksy siqas kieou asgyy ceymq omwsc
+
+a=22, b=18: gicai kyowc wmuew omisy ewkcc gicqu sqawg
+
+a=22, b=19: kmgem ocsag aqyia sqmwc iaogg kmguy wueak
+
+a=22, b=20: oqkiq sgwek eucme wuqag meskk oqkyc ayieo
+
+a=22, b=21: suomu wkaio iygqi ayuek qiwoo suocg ecmis
+
+a=22, b=22: wysqy aoems mckum ecyio umass wysgk igqmw
+
+a=22, b=23: acwuc esiqw qgoyq igcms yqeww acwko mkuqa
+
+a=22, b=24: egayg iwmua ukscu mkgqw cuiaa egaos qoyue
+
+a=22, b=25: ikeck maqye yowgy qokua gymee ikesw uscyi
+
+a=23, b=0: wetlr zdpig vhaov curfq bvmtg wetkn sxyvj
+
+a=23, b=1: zhwou cgslj ykdry fxuit eypwj zhwnq vabym
+
+a=23, b=2: ckzrx fjvom bngub iaxlw hbszm ckzqt ydebp
+
+a=23, b=3: fncua imyrp eqjxe ldaoz kevcp fnctw bghes
+
+a=23, b=4: iqfxd lpbus htmah ogdrc nhyfs iqfwz ejkhv
+
+a=23, b=5: ltiag osexv kwpdk rjguf qkbiv ltizc hmnky
+
+a=23, b=6: owldj rvhay nzsgn umjxi tnely owlcf kpqnb
+
+a=23, b=7: rzogm uykdb qcvjq xpmal wqhob rzofi nstqe
+
+a=23, b=8: ucrjp xbnge tfymt aspdo ztkre ucril qvwth
+
+a=23, b=9: xfums aeqjh wibpw dvsgr cwnuh xfulo tyzwk
+
+a=23, b=10: aixpv dhtmk zlesz gyvju fzqxk aixor wbczn
+
+a=23, b=11: dlasy gkwpn cohvc jbymx ictan dlaru zefcq
+
+a=23, b=12: godvb jnzsq frkyf mebpa lfwdq godux chift
+
+a=23, b=13: jrgye mqcvt iunbi phesd oizgt jrgxa fkliw
+
+a=23, b=14: mujbh ptfyw lxqel skhvg rlcjw mujad inolz
+
+a=23, b=15: pxmek swibz oatho vnkyj uofmz pxmdg lqroc
+
+a=23, b=16: saphn vzlec rdwkr yqnbm xripc sapgj oturf
+
+a=23, b=17: vdskq ycohf ugznu btqep aulsf vdsjm rwxui
+
+a=23, b=18: ygvnt bfrki xjcqx ewths dxovi ygvmp uzaxl
+
+a=23, b=19: bjyqw eiunl amfta hzwkv garyl bjyps xcdao
+
+a=23, b=20: embtz hlxqo dpiwd kczny jdubo embsv afgdr
+
+a=23, b=21: hpewc koatr gslzg nfcqb mgxer hpevy dijgu
+
+a=23, b=22: kshzf nrdwu jvocj qifte pjahu kshyb glmjx
+
+a=23, b=23: nvkci qugzx myrfm tliwh smdkx nvkbe jopma
+
+a=23, b=24: qynfl txjca pbuip wolzk vpgna qyneh mrspd
+
+a=23, b=25: tbqio wamfd sexls zrocn ysjqd tbqhk puvsg
+
+a=24, b=0: guequ ickoe owaso kwumc soiee gueya myqog
+
+a=24, b=1: iwgsw kemqg qycuq mywoe uqkgg iwgac oasqi
+
+a=24, b=2: kyiuy mgosi saews oayqg wsmii kyice qcusk
+
+a=24, b=3: makwa oiquk ucgyu qcasi yuokk makeg sewum
+
+a=24, b=4: ocmyc qkswm weiaw secuk awqmm ocmgi ugywo
+
+a=24, b=5: qeoae smuyo ygkcy ugewm cysoo qeoik wiayq
+
+a=24, b=6: sgqcg uowaq aimea wigyo eauqq sgqkm ykcas
+
+a=24, b=7: uisei wqycs ckogc ykiaq gcwss uismo amecu
+
+a=24, b=8: wkugk ysaeu emqie amkcs ieyuu wkuoq cogew
+
+a=24, b=9: ymwim aucgw goskg comeu kgaww ymwqs eqigy
+
+a=24, b=10: aoyko cweiy iqumi eqogw micyy aoysu gskia
+
+a=24, b=11: cqamq eygka kswok gsqiy okeaa cqauw iumkc
+
+a=24, b=12: escos gaimc muyqm iuska qmgcc escwy kwome
+
+a=24, b=13: guequ ickoe owaso kwumc soiee gueya myqog
+
+a=24, b=14: iwgsw kemqg qycuq mywoe uqkgg iwgac oasqi
+
+a=24, b=15: kyiuy mgosi saews oayqg wsmii kyice qcusk
+
+a=24, b=16: makwa oiquk ucgyu qcasi yuokk makeg sewum
+
+a=24, b=17: ocmyc qkswm weiaw secuk awqmm ocmgi ugywo
+
+a=24, b=18: qeoae smuyo ygkcy ugewm cysoo qeoik wiayq
+
+a=24, b=19: sgqcg uowaq aimea wigyo eauqq sgqkm ykcas
+
+a=24, b=20: uisei wqycs ckogc ykiaq gcwss uismo amecu
+
+a=24, b=21: wkugk ysaeu emqie amkcs ieyuu wkuoq cogew
+
+a=24, b=22: ymwim aucgw goskg comeu kgaww ymwqs eqigy
+
+a=24, b=23: aoyko cweiy iqumi eqogw micyy aoysu gskia
+
+a=24, b=24: cqamq eygka kswok gsqiy okeaa cqauw iumkc
+
+a=24, b=25: escos gaimc muyqm iuska qmgcc escwy kwome
+
+a=25, b=0: qkpvx rbfuc hlawh syxto jhepc qkpmn gzihd
+
+a=25, b=1: rlqwy scgvd imbxi tzyup kifqd rlqno hajie
+
+a=25, b=2: smrxz tdhwe jncyj uazvq ljgre smrop ibkjf
+
+a=25, b=3: tnsya ueixf kodzk vbawr mkhsf tnspq jclkg
+
+a=25, b=4: uotzb vfjyg lpeal wcbxs nlitg uotqr kdmlh
+
+a=25, b=5: vpuac wgkzh mqfbm xdcyt omjuh vpurs lenmi
+
+a=25, b=6: wqvbd xhlai nrgcn yedzu pnkvi wqvst mfonj
+
+a=25, b=7: xrwce yimbj oshdo zfeav qolwj xrwtu ngpok
+
+a=25, b=8: ysxdf zjnck ptiep agfbw rpmxk ysxuv ohqpl
+
+a=25, b=9: ztyeg akodl qujfq bhgcx sqnyl ztyvw pirqm
+
+a=25, b=10: auzfh blpem rvkgr cihdy trozm auzwx qjsrn
+
+a=25, b=11: bvagi cmqfn swlhs djiez uspan bvaxy rktso
+
+a=25, b=12: cwbhj dnrgo txmit ekjfa vtqbo cwbyz slutp
+
+a=25, b=13: dxcik eoshp uynju flkgb wurcp dxcza tmvuq
+
+a=25, b=14: eydjl fptiq vzokv gmlhc xvsdq eydab unwvr
+
+a=25, b=15: fzekm gqujr waplw hnmid ywter fzebc voxws
+
+a=25, b=16: gafln hrvks xbqmx ionje zxufs gafcd wpyxt
+
+a=25, b=17: hbgmo iswlt ycrny jpokf ayvgt hbgde xqzyu
+
+a=25, b=18: ichnp jtxmu zdsoz kqplg bzwhu ichef yrazv
+
+a=25, b=19: jdioq kuynv aetpa lrqmh caxiv jdifg zsbaw
+
+a=25, b=20: kejpr lvzow bfuqb msrni dbyjw kejgh atcbx
+
+a=25, b=21: lfkqs mwapx cgvrc ntsoj eczkx lfkhi budcy
+
+a=25, b=22: mglrt nxbqy dhwsd outpk fdaly mglij cvedz
+
+a=25, b=23: nhmsu oycrz eixte pvuql gebmz nhmjk dwfea
+
+a=25, b=24: ointv pzdsa fjyuf qwvrm hfcna oinkl exgfb
+
+a=25, b=25: pjouw qaetb gkzvg rxwsn igdob pjolm fyhgc
+
